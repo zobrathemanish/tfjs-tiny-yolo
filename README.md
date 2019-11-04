@@ -1,4 +1,3 @@
-<a href='https://modeldepot.io/mikeshi/tiny-yolo-in-javascript'> <img src='https://img.shields.io/badge/ModelDepot-Pre--trained_Model-3d9aff.svg'/> </a>
 
 # ⚡️ Fast In-Browser Object Detection 👀
 
@@ -10,13 +9,6 @@ Supports [`Tiny YOLO`](https://pjreddie.com/darknet/yolo/), as of right now,
 support to run any full YOLO models (and your user's computers probably
 can't handle it either).
 
-## Demo
-
-[Check out the Live Demo](https://modeldepot.github.io/tfjs-yolo-tiny-demo/)
-
-(You can only get so far with 1 FPS)
-
-![yolo person detection](https://github.com/ModelDepot/tfjs-yolo-tiny/raw/master/assets/demo.gif)
 
 ## Install
 
